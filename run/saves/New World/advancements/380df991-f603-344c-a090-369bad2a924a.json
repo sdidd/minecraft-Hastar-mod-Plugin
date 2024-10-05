@@ -7,13 +7,71 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:grove": "2024-06-01 19:40:49 +0530"
+      "minecraft:frozen_ocean": "2024-06-02 18:56:27 +0530",
+      "minecraft:grove": "2024-06-01 19:40:49 +0530",
+      "minecraft:stony_shore": "2024-06-02 18:56:12 +0530",
+      "minecraft:snowy_plains": "2024-06-02 18:56:26 +0530",
+      "minecraft:snowy_taiga": "2024-06-02 18:43:43 +0530"
     },
     "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-06-01 19:41:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-06-02 18:56:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-06-02 18:56:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-06-02 18:56:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-06-02 18:56:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-06-02 18:56:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-06-02 18:56:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-02 18:56:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-06-02 18:56:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-02 18:56:30 +0530"
     },
     "done": true
   },

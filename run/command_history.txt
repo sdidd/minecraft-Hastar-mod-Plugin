@@ -1,0 +1,3 @@
+/give @a
+/give @a hastar:laddoo 1
+/give @a hastar:flesh_block
